@@ -19,7 +19,7 @@
         "php": "~8.2.0 || ~8.3.0 || ~8.4.0 || ~8.5.0",
         "ext-mbstring": "*",
         "laminas/laminas-escaper": "^2",
-        "laminas/laminas-filter": "^2",
+        "laminas/laminas-filter": "^3.4",
         "laminas/laminas-hydrator": "^4.16.0",
         "laminas/laminas-inputfilter": "dev-I-51993",
         "laminas/laminas-servicemanager": "^4.5.1",
